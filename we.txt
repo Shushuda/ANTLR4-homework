@@ -1,0 +1,13 @@
+Przedmioty:
+    kot(10), pies(20), chomik(5), pedigree(8), kiticat(6), marchewka(4), kielbasa(5).
+Wartosci:
+    wartosc(kot) = 100 jesli jest(kiticat i kielbasa lub chomik)
+        inaczej 20,
+    wartosc(pies) = 150 jesli jest(pedigree i kielbasa)
+        inaczej 100,
+    wartosc(chomik) = 60 jesli jest(marchewka) inaczej 50,
+    wartosc(pedigree) = 20,
+    wartosc(kiticat) = 20,
+    wartosc(marchewka) = 10,
+    wartosc(kielbasa) = 30.
+Plecak: 40.
